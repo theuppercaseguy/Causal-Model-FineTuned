@@ -5,8 +5,8 @@ This project demonstrates fine-tuning the GPT2 model for finance text generation
 
 ##### Clone the repository:
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/theuppercaseguy/Causal-Model-FineTuned.git
+cd "Causal-Model-FineTuned"
 ```
 
 ##### Create and activate a virtual environment (optional but recommended):
